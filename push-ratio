@@ -1,0 +1,1 @@
+*/15 * * * * sh /app/start_push_event.sh
